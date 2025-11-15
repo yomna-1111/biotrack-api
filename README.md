@@ -53,8 +53,11 @@ biotrack-api/
 ├─ README.md           # This file
 └─ modules/            # Additional modules or files
 ```
+cd path/to/biotrack-api
 
 ## 💡 Notes
 
 * Ensure your database is set up before running the project if applicable.
 * You can extend the API by adding new routes as needed.
+  
+
