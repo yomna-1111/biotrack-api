@@ -1,0 +1,4 @@
+flask
+roboflow
+pillow
+gunicorn
